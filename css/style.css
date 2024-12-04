@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    outline: 0;
+}
+
+body{
+    background: blueviolet;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    line-height: 50px;
+}
+
+.rotina {
+    background: white;
+    max-width: 640px;
+    margin: 50px auto;
+    padding: 20px;
+    padding-left: 200px;
+    border-radius: 10px;
+   
+}
